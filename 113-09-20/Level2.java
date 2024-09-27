@@ -21,8 +21,8 @@ public class Level2 {
                 level = 'D';
                 break; 
             default: 
-                level = 'E';
+                level = 'F';
         }
-        System.out.printf("�o�����šG%c%n", level);
+        System.out.printf("得分等級: %c%n", level);
     }
 }
